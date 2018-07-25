@@ -1,0 +1,13 @@
+Project Space
+
+Nombre: project-space
+Tamaño: 75 MB
+URL: https://drive.google.com/file/d/1AiIN9salxJn-sW2-USQsuf4bz3T-49ND/view?usp=sharing
+
+--- Como usar ---
+El programa principal está en "/index.js".
+
+--- Instalador ---
+Advertencia: El instalador es una versión incompleta de EMGR Tools Installer. Para desinstalar eliminar la carpeta "C:\Program Files (x86)\AE Games"
+
+Se recomienda deshabilitar el antivirus antes de usar el instalador.
